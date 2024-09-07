@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Phasilva-dev
-- 📫 How to reach me: contate me in phasilva2002@outlook.com
+# About me
 <div>
   <a href="https://github.com/phasilva-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phasilva-dev&layout=compact&theme=dracula"/>
