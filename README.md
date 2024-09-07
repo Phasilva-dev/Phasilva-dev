@@ -4,8 +4,8 @@ Developing an accelerometer library for the DE1-SoC board to control a Tetris ga
 ### Statistics:
 <div>
   <a href="https://github.com/phasilva-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phasilva-dev&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phasilva-dev&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phasilva-dev&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phasilva-dev&show_icons=true&theme=dark"/>
   </a>
 </div>
 
