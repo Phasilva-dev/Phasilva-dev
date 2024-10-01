@@ -1,5 +1,5 @@
 # About me
-Developing an accelerometer library for the DE1-SoC board to control a Tetris game in my 4th semester of university.
+Developing an GPU library in ARM assembly for the DE1-SoC board to use in a Tetris game in my 4th semester of university.
 
 ### Statistics:
 <div>
