@@ -1,5 +1,5 @@
 # About me
-Developing an GPU library in ARM assembly for the DE1-SoC board to use in a Tetris game in my 4th semester of university.
+Developing a stochastic modeling tool for simulating water consumption in a residential environment.
 
 ### Statistics:
 <div>
@@ -22,5 +22,5 @@ Developing an GPU library in ARM assembly for the DE1-SoC board to use in a Tetr
 
 ### In Progress:
 
-Learning more about C and Assembly.
+Learning more about C and Python.
 
