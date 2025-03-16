@@ -22,5 +22,5 @@ Developing a stochastic modeling tool for simulating water consumption in a resi
 
 ### In Progress:
 
-Learning more about C and Python.
+Learning more about Go and JS/TS.
 
